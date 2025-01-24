@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This is my first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myo Min Kyaw",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^13.0.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myominn245/sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Myominn245/sample/issues"
+  },
+  "homepage": "https://github.com/Myominn245/sample#readme"
+}
